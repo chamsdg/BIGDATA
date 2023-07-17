@@ -1,3 +1,3 @@
-Ce projet valide le cours dans lequel j'ai eu à intervenir a ISM.
-Le module est le machine learning
-Ce cours à ete destiné aux eleves de MBA 2 Big Data
+This project validates the course in which I had to intervene at ISM.
+The module is machine learning
+This course was intended for MBA 2 Big Data students
